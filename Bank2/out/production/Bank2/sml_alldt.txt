@@ -1,0 +1,6 @@
+0	10	false
+0	5	false
+0	7	false
+5	2	false
+10	20	false
+11	10	false
